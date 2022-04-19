@@ -1,0 +1,2 @@
+hello myself, trying to figure out how does git works..
+
