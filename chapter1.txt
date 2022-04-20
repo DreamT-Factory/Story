@@ -1,2 +1,4 @@
 hello myself, trying to figure out how does git works..
 
+
+You know what ? i feel like i'm pretty good at learning how to code. I wish this could continue !
